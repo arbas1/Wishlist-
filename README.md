@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
 - [ ] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
@@ -27,16 +26,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/1d6a8a8e328d47de868d8bad9d56d56f
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
